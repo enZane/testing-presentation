@@ -73,7 +73,7 @@ C -->G[Integration Testing]
 
 <div class="pt-5" grid="~ cols-2 gap-4">
 <div>
-  <img src="public/test-coverage.png" />
+  <img src="/test-coverage.png" />
 </div>
 <div>
 
